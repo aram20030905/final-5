@@ -1,0 +1,12 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+    width:50%;
+    background-color: brown;
+    margin:auto;
+}
+.menu a{
+    text-decoration: none;
+    font-size:25px;
+    letter-spacing: 10px;
+}

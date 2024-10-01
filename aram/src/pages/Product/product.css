@@ -1,0 +1,37 @@
+.aa{
+border:1px solid;
+border-radius: 10px;
+
+width:300px;
+
+box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+
+}
+.aa img{
+height:100px;
+width:100px;
+margin-left:50px;
+padding:10px;
+}
+.Product{
+
+    width:50%;
+    padding:2%;
+    margin: auto;
+
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    gap:10px;
+}
+
+.aa h1 span{
+    font-size:20px;
+}
+.aa button{
+margin-left:100px;
+    height:50px;
+    width:50px;
+    background-color: red;
+}

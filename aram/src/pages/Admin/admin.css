@@ -1,0 +1,41 @@
+.admin input{
+    height:25px;
+    width:300px;
+    outline:none;
+}
+
+.admin{
+    width:100px;
+}
+
+.admin button{
+    background-color: brown;
+    height:50px;
+    width:150px;
+}
+
+.data button{
+    height:50px;
+    width:50px;
+    background-color: blue;
+    color:white;
+}
+.data img{
+    height:50px;
+    width:50px;
+}
+
+.product-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.product-table th, .product-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+.product-table th {
+    background-color: #f2f2f2;
+}
